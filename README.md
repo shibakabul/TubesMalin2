@@ -38,7 +38,7 @@ Diberikannya suatu data-set berformat *.csv yakni Training-set dan Testing-set m
 * Bersalju Hari Ini, dan
 * Bersalju Besok.
 
-Dari Semua data tersebut kami diminta untuk mengelola data tersebut agar dapat mengetahui prediksi Besok akan turun salju atau tidak. Dalam kesempatan kali ini, Kami menggunakan bahasa Python dan menggunakan beberapa library pembantu agar data mudah untuk diolah. 
+Dari Semua data tersebut kami diminta untuk mengelola data tersebut agar dapat mengetahui akurasinya. Dalam kesempatan kali ini, Kami menggunakan bahasa Python dan menggunakan beberapa library pembantu agar data mudah untuk diolah. 
 
 ## Requirements
 
