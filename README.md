@@ -60,6 +60,6 @@ Dari Semua data tersebut kami diminta untuk mengelola data tersebut agar dapat m
 
 ### Contributors
 
-<a href="https://github.com/ArdityoCahyo/HotelSeeker/graphs/contributors">
+<a href="https://github.com/shibakabul/TubesMalin2/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=shibakabul/TubesMalin2" title="Contributors" alt="Contributors"/>
 </a>
