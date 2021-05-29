@@ -54,7 +54,7 @@ Dari Semua data tersebut kami diminta untuk mengelola data tersebut agar dapat m
 * copy
 
 ### Test Program
-* https://colab.research.google.com/drive/1JFG0J_kX78ZBa7aSK2QDbqAXlZFz17sR?usp=sharing
+* https://drive.google.com/file/d/1sq_ErIYoe7yA0UOia4tKRcJjCbTMwA6q/view?usp=sharing 
 
 ## Support
 
